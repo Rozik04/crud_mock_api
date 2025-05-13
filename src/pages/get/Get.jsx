@@ -29,7 +29,7 @@ const Get = () => {
         <h1 className="text-2xl font-bold text-black animate-pulse">Loading...</h1>
       </div>
     ) : (
-      <div className='flex flex-col items-center justify-center mt-[470px]'>
+      <div className='flex flex-col items-center justify-center  mt-[2500px]'>
         <div className="grid grid-cols-4 gap-6 p-5">
           {users?.map((user) => (
             <div

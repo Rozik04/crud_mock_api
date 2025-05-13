@@ -48,7 +48,7 @@ const Header = () => {
         </NavLink>
       </nav>
     </header>
-         <div className='absolute right-[191px]  w-[1480px] border h-[70px] bg-gray-800 bottom-211 fixed'>
+         <div className='absolute right-[191px]  w-[1480px] border h-[70px] bg-gray-800 bottom-211 fixed z-1'>
           <h1 className="text-center text-3xl font-semibold text-gray-100 mb-2 pt-[15px]">Management System Users</h1>
          </div>
 </div>

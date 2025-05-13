@@ -16,7 +16,6 @@ const MainRouters = () => {
       <Header />
       <div className="flex-1 flex justify-center items-center">
         <Routes>
-          {/* Suspense bilan Layout o'ralgan */}
           <Route
             path="/"
             element={
